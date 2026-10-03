@@ -5,6 +5,10 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?logo=greensock&logoColor=white)](https://greensock.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=flat&logo=github)](https://satyam7782.github.io/ITZFIZZ/)
+
+> 🚀 **Live Demo**: [https://satyam7782.github.io/ITZFIZZ/](https://satyam7782.github.io/ITZFIZZ/)  
+> 🔗 **Reference Benchmark**: [https://paraschaturvedi.github.io/car-scroll-animation](https://paraschaturvedi.github.io/car-scroll-animation)
 
 A modern, high-performance scroll-driven digital agency hero section inspired by [paraschaturvedi.github.io/car-scroll-animation](https://paraschaturvedi.github.io/car-scroll-animation). Engineered for the **ITZFIZZ Web Development Internship assignment**, this project demonstrates high-end interactive engineering, 3D multi-plane depth, locked 60 FPS GPU-accelerated motion, and responsive viewport optimization.
 
